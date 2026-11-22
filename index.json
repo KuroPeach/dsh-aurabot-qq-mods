@@ -1749,6 +1749,37 @@
       "publishedAt": "2026-11-05T12:14:07.525Z"
     },
     {
+      "id": "session-switch",
+      "name": "会话切换",
+      "version": "1.3.1",
+      "description": "让她把一件事带到另一个聊天：那边的她按自己的记忆和方式接住，不是把原话复制过去。认不出称呼是谁时，会把会话清单发到聊天里让对方挑，挑定才记住对应；主人和别人各有开关和可带话的范围，别人的带话默认关。",
+      "category": "social",
+      "tags": [
+        "跨会话",
+        "转达",
+        "穿透",
+        "会话清单"
+      ],
+      "author": "Cinderlia",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.2.0",
+      "requires": [],
+      "capabilities": [
+        "filesystem",
+        "plugin-config",
+        "plugin-internals"
+      ],
+      "replacesBuiltin": false,
+      "tag": "session-switch-v1.3.1",
+      "file": "session-switch-v1.3.1.zip",
+      "path": "session-switch-v1.3.1/session-switch-v1.3.1.zip",
+      "size": 27429,
+      "sha256": "9669bc009d274b9ebbfbdcc8b8b389fd9838aa5d3070bdc6a01aff877ab953e5",
+      "commit": "0dffb8ac760b963189370b282fc77b54a5ba18db",
+      "publishedAt": "2026-11-22T12:04:36.584Z"
+    },
+    {
       "id": "shitu",
       "name": "识图",
       "version": "1.0.0",
@@ -2207,5 +2238,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:02:35.547Z"
+  "generatedAt": "2026-11-22T12:04:36.584Z"
 }
