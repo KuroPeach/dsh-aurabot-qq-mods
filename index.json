@@ -132,6 +132,34 @@
       "publishedAt": "2026-11-22T12:22:47.646Z"
     },
     {
+      "id": "autolike",
+      "name": "自动回赞",
+      "version": "1.0.0",
+      "description": "有人给大肥鱼的资料点赞时，悄悄给对方回一个赞；说「赞我」也能点，同一个号一天只点一次。",
+      "category": "social",
+      "tags": [
+        "点赞",
+        "回赞",
+        "自动"
+      ],
+      "author": "DFH-clouds",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.2.0",
+      "requires": [],
+      "capabilities": [
+        "plugin-config"
+      ],
+      "replacesBuiltin": false,
+      "tag": "autolike-v1.0.0",
+      "file": "autolike-v1.0.0.zip",
+      "path": "autolike-v1.0.0/autolike-v1.0.0.zip",
+      "size": 4843,
+      "sha256": "c71bb6c2614ef4e2606643f01ccce7192039a16c028de499dfba0b391ce83dae",
+      "commit": "6c0a0f3ea72c18160425b1a6286d6c58f8fdad8b",
+      "publishedAt": "2026-11-22T12:27:41.222Z"
+    },
+    {
       "id": "autonomy",
       "name": "自主生活",
       "version": "0.6.1",
@@ -737,11 +765,13 @@
     {
       "id": "group-admin",
       "name": "群管",
-      "version": "1.0.3",
-      "description": "主人开口时帮忙管群：禁言、解禁、踢人、改头衔、发公告。她也知道自己在群里有没有管理权限。",
+      "version": "1.1.1",
+      "description": "主人开口时帮忙管群：禁言、解禁、踢人、改头衔、发公告、全体禁言；自带群管白名单，白名单里的人可以直接发指令触发。",
       "category": "manage",
       "tags": [
-        "群管"
+        "群管",
+        "全体禁言",
+        "白名单"
       ],
       "author": "accomplish07zrh-eng",
       "license": "MIT",
@@ -754,13 +784,13 @@
       ],
       "replacesBuiltin": false,
       "homepage": "https://github.com/accomplish07zrh-eng/dsh-aurabot-qq",
-      "tag": "group-admin-v1.0.3",
-      "file": "group-admin-v1.0.3.zip",
-      "path": "group-admin-v1.0.3/group-admin-v1.0.3.zip",
-      "size": 4003,
-      "sha256": "90a5c7df53ab38f21ae49a6c3bde6933c7f173c4fe58fcfdfeda0425d624b22f",
-      "commit": "3827609ce75cd6cb67d60ebd01b7a62f0d9cf448",
-      "publishedAt": "2026-11-06T06:03:15.318Z"
+      "tag": "group-admin-v1.1.1",
+      "file": "group-admin-v1.1.1.zip",
+      "path": "group-admin-v1.1.1/group-admin-v1.1.1.zip",
+      "size": 7198,
+      "sha256": "c325d060f30bdef5591fd0a639a3c5d89149700dc5a1ff792ea93ad3e07c5fb7",
+      "commit": "6c0a0f3ea72c18160425b1a6286d6c58f8fdad8b",
+      "publishedAt": "2026-11-22T12:27:41.222Z"
     },
     {
       "id": "group-topic-boundary",
@@ -2359,5 +2389,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:25:15.772Z"
+  "generatedAt": "2026-11-22T12:27:41.222Z"
 }
