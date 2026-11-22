@@ -793,6 +793,37 @@
       "publishedAt": "2026-11-07T14:19:28.212Z"
     },
     {
+      "id": "github-assistant",
+      "name": "GitHub 助手",
+      "version": "1.0.0",
+      "description": "私聊盯 CI 失败、待审 PR 和被 @；群聊 #项目 看仓库状态，显示细项可调",
+      "category": "tool",
+      "tags": [
+        "GitHub",
+        "CI",
+        "PR",
+        "仓库状态"
+      ],
+      "author": "HDB-Studio",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.2.0",
+      "requires": [],
+      "capabilities": [
+        "network",
+        "filesystem",
+        "plugin-config"
+      ],
+      "replacesBuiltin": false,
+      "tag": "github-assistant-v1.0.0",
+      "file": "github-assistant-v1.0.0.zip",
+      "path": "github-assistant-v1.0.0/github-assistant-v1.0.0.zip",
+      "size": 10514,
+      "sha256": "1160b9414f8d31ab32322aa53692bca45cfd928dd48d5f4bda1886bd6a7fbb33",
+      "commit": "ea7f67b03dccacd3176358339becc9fd9d884f6e",
+      "publishedAt": "2026-11-22T12:51:44.125Z"
+    },
+    {
       "id": "group-admin",
       "name": "群管",
       "version": "1.1.1",
@@ -2478,5 +2509,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:49:19.792Z"
+  "generatedAt": "2026-11-22T12:51:44.125Z"
 }
