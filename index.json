@@ -102,6 +102,36 @@
       "publishedAt": "2026-11-10T04:45:09.858Z"
     },
     {
+      "id": "auto-contact",
+      "name": "自动接待",
+      "version": "1.0.0",
+      "description": "自动通过好友申请和群邀请并写入白名单；#sl 只有主人能触发",
+      "category": "manage",
+      "tags": [
+        "自动同意",
+        "好友",
+        "加群",
+        "白名单",
+        "私聊"
+      ],
+      "author": "HDB-Studio",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.2.0",
+      "requires": [],
+      "capabilities": [
+        "plugin-config"
+      ],
+      "replacesBuiltin": false,
+      "tag": "auto-contact-v1.0.0",
+      "file": "auto-contact-v1.0.0.zip",
+      "path": "auto-contact-v1.0.0/auto-contact-v1.0.0.zip",
+      "size": 6248,
+      "sha256": "b852f49df49b12ddd85eb36b23d845e1b96130409af7cfd3701c9f6e036287e5",
+      "commit": "582880984385a1cee646724b8aabe2c55300a143",
+      "publishedAt": "2026-11-22T12:22:47.646Z"
+    },
+    {
       "id": "autonomy",
       "name": "自主生活",
       "version": "0.6.1",
@@ -2301,5 +2331,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:17:06.505Z"
+  "generatedAt": "2026-11-22T12:22:47.646Z"
 }
