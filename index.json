@@ -1303,6 +1303,37 @@
       "publishedAt": "2026-11-09T09:54:57.521Z"
     },
     {
+      "id": "nickname-memory",
+      "name": "昵称记忆",
+      "version": "1.2.1",
+      "description": "她会记住大家怎么称呼一个人（也能自己给对方起个叫法），以后就用这个称呼叫对方；新叫法会顶掉旧的。称呼本只给主人看，群里的叫法不跨聊天串。",
+      "category": "social",
+      "tags": [
+        "昵称",
+        "称呼",
+        "认人",
+        "记忆"
+      ],
+      "author": "Cinderlia",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.3.0",
+      "requires": [],
+      "capabilities": [
+        "filesystem",
+        "plugin-config",
+        "plugin-internals"
+      ],
+      "replacesBuiltin": false,
+      "tag": "nickname-memory-v1.2.1",
+      "file": "nickname-memory-v1.2.1.zip",
+      "path": "nickname-memory-v1.2.1/nickname-memory-v1.2.1.zip",
+      "size": 16968,
+      "sha256": "14a04e2f230f075074d7d75f20a7abc71d857610e11f4ec65a6d0bf032fe8e0b",
+      "commit": "d7253692c5485045d597223f4f79d4751df828d4",
+      "publishedAt": "2026-11-22T12:06:24.779Z"
+    },
+    {
       "id": "night",
       "name": "长夜如梦",
       "version": "1.0.0",
@@ -2238,5 +2269,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:04:36.584Z"
+  "generatedAt": "2026-11-22T12:06:24.779Z"
 }
