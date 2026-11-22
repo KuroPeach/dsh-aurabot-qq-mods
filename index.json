@@ -1773,6 +1773,35 @@
       "publishedAt": "2026-11-15T21:13:08.399Z"
     },
     {
+      "id": "rich-input",
+      "name": "看得见的东西",
+      "version": "1.6.0",
+      "description": "把 [图片] 变成真正交给模型的图片（看不了图就用看图模型转汉字、不行再换回退模型）；把 [合并转发] 展开成 {昵称(QQ):内容;…}",
+      "category": "tool",
+      "tags": [
+        "看图",
+        "合并转发",
+        "图片",
+        "视觉"
+      ],
+      "author": "kmizmal",
+      "license": "CC-BY-NC-SA-4.0",
+      "api": 1,
+      "minPluginVersion": "1.2.1",
+      "requires": [],
+      "capabilities": [
+        "plugin-internals"
+      ],
+      "replacesBuiltin": false,
+      "tag": "rich-input-v1.6.0",
+      "file": "rich-input-v1.6.0.zip",
+      "path": "rich-input-v1.6.0/rich-input-v1.6.0.zip",
+      "size": 32575,
+      "sha256": "d34c344bf8daf5207b160e38c0c4e6d718393b5239c2c583484c754530dbda31",
+      "commit": "80491a2eefd4733b0b5729c24f9ad423d5faba4c",
+      "publishedAt": "2026-11-22T12:44:57.243Z"
+    },
+    {
       "id": "roast-mode",
       "name": "毒舌模式",
       "version": "1.0.4",
@@ -2419,5 +2448,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:32:06.700Z"
+  "generatedAt": "2026-11-22T12:44:57.243Z"
 }
