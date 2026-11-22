@@ -1388,6 +1388,36 @@
       "publishedAt": "2026-11-07T14:19:58.408Z"
     },
     {
+      "id": "moyu-calendar",
+      "name": "摸鱼人日历",
+      "version": "1.0.4",
+      "description": "每天从公众号「摸鱼人日历」取当日日历图，定时发到指定 QQ 聊天。",
+      "category": "tool",
+      "tags": [
+        "摸鱼",
+        "日历",
+        "公众号"
+      ],
+      "author": "Earmo",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.2.0",
+      "requires": [],
+      "capabilities": [
+        "network",
+        "filesystem",
+        "plugin-config"
+      ],
+      "replacesBuiltin": false,
+      "tag": "moyu-calendar-v1.0.4",
+      "file": "moyu-calendar-v1.0.4.zip",
+      "path": "moyu-calendar-v1.0.4/moyu-calendar-v1.0.4.zip",
+      "size": 25946,
+      "sha256": "95a155c82064d34fe31a33fd002e76505a97947e978c6d8d51e3ba79a622bbb4",
+      "commit": "3c338ebe48c5ce295f6e1d9150a7b2f2c6bf7042",
+      "publishedAt": "2026-11-22T12:49:19.792Z"
+    },
+    {
       "id": "music-discovery",
       "name": "搜歌与推荐",
       "version": "0.2.0",
@@ -2448,5 +2478,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-22T12:44:57.243Z"
+  "generatedAt": "2026-11-22T12:49:19.792Z"
 }
