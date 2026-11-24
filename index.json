@@ -382,7 +382,7 @@
     {
       "id": "browser-ops",
       "name": "逛网页（浏览器自动化）",
-      "version": "1.2.5",
+      "version": "1.2.6",
       "description": "封装 CDP 专用浏览器（独立登录资料）：提供打开网页、点击、输入、滚动、截屏、页面快照等原子操作，供其他模块经 api.use('browser-ops') 复用。",
       "category": "platform",
       "tags": [
@@ -403,13 +403,13 @@
         "plugin-internals"
       ],
       "replacesBuiltin": false,
-      "tag": "browser-ops-v1.2.5",
-      "file": "browser-ops-v1.2.5.zip",
-      "path": "browser-ops-v1.2.5/browser-ops-v1.2.5.zip",
-      "size": 42682,
-      "sha256": "df6641d871c33cf5caf08703f17560b116ffb1589f67e52eb217736f9fcc2651",
-      "commit": "1592a45be37ae5ec3aa197533fb42d3800716e72",
-      "publishedAt": "2026-11-11T10:10:02.938Z"
+      "tag": "browser-ops-v1.2.6",
+      "file": "browser-ops-v1.2.6.zip",
+      "path": "browser-ops-v1.2.6/browser-ops-v1.2.6.zip",
+      "size": 43540,
+      "sha256": "b476e3cd1df46e06d6f3a655c143adeb79787efabe6d0b027e0a5a5227b41843",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "cabinworld",
@@ -546,7 +546,7 @@
     {
       "id": "douyin",
       "name": "刷抖音",
-      "version": "2.3.8",
+      "version": "2.3.9",
       "description": "用专用浏览器刷抖音：看推荐、点赞评论，把好玩的视频分享给主人，也能看别人发来的抖音链接。",
       "category": "platform",
       "tags": [
@@ -567,13 +567,13 @@
       ],
       "replacesBuiltin": false,
       "homepage": "https://github.com/accomplish07zrh-eng/dsh-aurabot-qq",
-      "tag": "douyin-v2.3.8",
-      "file": "douyin-v2.3.8.zip",
-      "path": "douyin-v2.3.8/douyin-v2.3.8.zip",
-      "size": 55398,
-      "sha256": "6c6276240e58daf45842f7853a89e7a8ef27957c39f8ef64e6b6f6e3a796874b",
-      "commit": "c9c8dcaaffac65d3e6c7da3076d9273b6bac2c04",
-      "publishedAt": "2026-11-15T17:02:54.057Z"
+      "tag": "douyin-v2.3.9",
+      "file": "douyin-v2.3.9.zip",
+      "path": "douyin-v2.3.9/douyin-v2.3.9.zip",
+      "size": 56767,
+      "sha256": "8cf95bb96d37f3b86bd2b48bafa45c1fba5644c9de9ca4af0b72af5cf7465c4f",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "dsh-image",
@@ -945,7 +945,7 @@
     {
       "id": "hongguo",
       "name": "刷红果短剧",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "用专用浏览器刷红果短剧：看推荐、记下看过的，刷到好看的用 QQ 私聊告诉主人。看完会把标题、简介、播放时抓的画面帧和真实热评一起交给模型判断好不好看，只有真的觉得值得才分享。",
       "category": "platform",
       "tags": [
@@ -966,13 +966,13 @@
       ],
       "replacesBuiltin": false,
       "homepage": "https://github.com/aureth-labs/dsh-aurabot-qq",
-      "tag": "hongguo-v0.1.1",
-      "file": "hongguo-v0.1.1.zip",
-      "path": "hongguo-v0.1.1/hongguo-v0.1.1.zip",
-      "size": 41406,
-      "sha256": "41654a01856d014f087b8702a7e085b2985c8e051466f9ddaa77a02cfc3674c6",
-      "commit": "ba125ef1d80656b63ff75a1b80f39b493b870743",
-      "publishedAt": "2026-11-18T08:26:17.069Z"
+      "tag": "hongguo-v0.1.2",
+      "file": "hongguo-v0.1.2.zip",
+      "path": "hongguo-v0.1.2/hongguo-v0.1.2.zip",
+      "size": 42288,
+      "sha256": "2c799ba037b971e479470253932a7752443bd31ff632828931e23aefde496a5d",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "impression-card",
@@ -1421,7 +1421,7 @@
     {
       "id": "moyu-calendar",
       "name": "摸鱼人日历",
-      "version": "1.0.4",
+      "version": "1.0.6",
       "description": "每天从公众号「摸鱼人日历」取当日日历图，定时发到指定 QQ 聊天。",
       "category": "tool",
       "tags": [
@@ -1440,13 +1440,13 @@
         "plugin-config"
       ],
       "replacesBuiltin": false,
-      "tag": "moyu-calendar-v1.0.4",
-      "file": "moyu-calendar-v1.0.4.zip",
-      "path": "moyu-calendar-v1.0.4/moyu-calendar-v1.0.4.zip",
-      "size": 25946,
-      "sha256": "95a155c82064d34fe31a33fd002e76505a97947e978c6d8d51e3ba79a622bbb4",
-      "commit": "3c338ebe48c5ce295f6e1d9150a7b2f2c6bf7042",
-      "publishedAt": "2026-11-22T12:49:19.792Z"
+      "tag": "moyu-calendar-v1.0.6",
+      "file": "moyu-calendar-v1.0.6.zip",
+      "path": "moyu-calendar-v1.0.6/moyu-calendar-v1.0.6.zip",
+      "size": 27274,
+      "sha256": "ca84a7fc2e033c10106617c85ac8342082a406fa5779501b29b1ab164a973760",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "music-discovery",
@@ -1641,8 +1641,8 @@
     {
       "id": "pet",
       "name": "桌宠",
-      "version": "1.0.20",
-      "description": "把大肥鱼请到桌面上：会冒气泡、做小动作，你在干活时也陪着你。",
+      "version": "1.1.0",
+      "description": "把大肥鱼请到桌面上：会冒气泡、做小动作，你在干活时也陪着她，还能用全局热键语音对讲（按一下开听、再按一下发送，ASR→对话→语音合成外放）。",
       "category": "desktop",
       "tags": [
         "桌宠"
@@ -1662,13 +1662,13 @@
       ],
       "replacesBuiltin": false,
       "homepage": "https://github.com/accomplish07zrh-eng/dsh-aurabot-qq",
-      "tag": "pet-v1.0.20",
-      "file": "pet-v1.0.20.zip",
-      "path": "pet-v1.0.20/pet-v1.0.20.zip",
-      "size": 225810,
-      "sha256": "33e76a215b1d80dffbb81304e1f6b417a7180ce8da3ac49039e0f87822ca16d7",
-      "commit": "d1ae58e564897fdba5779ce03f40816b0ef8afc3",
-      "publishedAt": "2026-11-22T05:17:33.447Z"
+      "tag": "pet-v1.1.0",
+      "file": "pet-v1.1.0.zip",
+      "path": "pet-v1.1.0/pet-v1.1.0.zip",
+      "size": 247890,
+      "sha256": "4dd04bf3c304bdb40693f0afb82c03b2cb159e1f1ac760696ebc30506590b3a4",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "phone",
@@ -1833,6 +1833,37 @@
       "sha256": "43e7d6884b83a77accc980005fb4f8f91a7881b99e138e9239b5ea6ecfa3f5e6",
       "commit": "d13e644df7e052f8c43d77116a812a2b3dd3b79e",
       "publishedAt": "2026-11-15T21:13:08.399Z"
+    },
+    {
+      "id": "recall-guard",
+      "name": "撤回守卫",
+      "version": "1.2.2",
+      "description": "撤回守卫：消息进来先等几秒，期间被撤回就不回复；能主动撤回自己发错、答错人或发错对象的消息；支持好友撤回和群撤回，按 message_id 精确匹配；对方打错字时按同音猜本意，内置 52864 条词库、不联网；面板可调等待时间、同音提示方式和候选数量，只写本机统计文件。",
+      "category": "social",
+      "tags": [
+        "撤回",
+        "消息守卫",
+        "同音纠错"
+      ],
+      "platforms": [
+        "qq"
+      ],
+      "author": "momo9422",
+      "license": "MIT",
+      "api": 1,
+      "minPluginVersion": "1.2.0",
+      "requires": [],
+      "capabilities": [
+        "filesystem"
+      ],
+      "replacesBuiltin": false,
+      "tag": "recall-guard-v1.2.2",
+      "file": "recall-guard-v1.2.2.zip",
+      "path": "recall-guard-v1.2.2/recall-guard-v1.2.2.zip",
+      "size": 557806,
+      "sha256": "3e1000e9f40e21f8fe8b74ad2f00bcd6c4aab08e90e244d0bc65a6471131e7f8",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "rich-input",
@@ -2087,7 +2118,7 @@
     {
       "id": "smart-search",
       "name": "联网搜索",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "需要时自己查资料、读网页，回答附上来源；默认沿用 DSH 搜索",
       "category": "tool",
       "tags": [
@@ -2107,13 +2138,13 @@
       ],
       "replacesBuiltin": false,
       "homepage": "https://github.com/b1ghawk119/dsh-aurabot-qq-smartsearch-plugin",
-      "tag": "smart-search-v1.0.2",
-      "file": "smart-search-v1.0.2.zip",
-      "path": "smart-search-v1.0.2/smart-search-v1.0.2.zip",
-      "size": 286568,
-      "sha256": "116eb6e623bed121745045c5339ab1ce1e117e1dec3b3797ec391fb8120616bb",
-      "commit": "84fd28dbbddfbd0637c072109f209d4eca6f3dde",
-      "publishedAt": "2026-11-13T15:41:34.085Z"
+      "tag": "smart-search-v1.0.3",
+      "file": "smart-search-v1.0.3.zip",
+      "path": "smart-search-v1.0.3/smart-search-v1.0.3.zip",
+      "size": 287841,
+      "sha256": "529588234b4dc966c6176b245dfe04868e309416e849628e4755972309efe90b",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "stardew",
@@ -2480,7 +2511,7 @@
     {
       "id": "xhs",
       "name": "刷小红书",
-      "version": "0.3.5",
+      "version": "0.3.6",
       "description": "用专用浏览器刷小红书：逛推荐/搜索、看笔记写记忆、点赞收藏评论（人格生成、每日上限）、认别人发来的小红书链接、看主人的私信并回复；发帖走「草稿 → 主人确认」两步，绝不闷头发。各能力独立开关，默认全关。",
       "category": "platform",
       "tags": [
@@ -2501,13 +2532,13 @@
         "plugin-internals"
       ],
       "replacesBuiltin": false,
-      "tag": "xhs-v0.3.5",
-      "file": "xhs-v0.3.5.zip",
-      "path": "xhs-v0.3.5/xhs-v0.3.5.zip",
-      "size": 97386,
-      "sha256": "54d432fcd172b4795faa1d8801969b32f06911c3c390457f08e62f80874bfe6b",
-      "commit": "1592a45be37ae5ec3aa197533fb42d3800716e72",
-      "publishedAt": "2026-11-11T10:10:02.938Z"
+      "tag": "xhs-v0.3.6",
+      "file": "xhs-v0.3.6.zip",
+      "path": "xhs-v0.3.6/xhs-v0.3.6.zip",
+      "size": 98556,
+      "sha256": "a850106f546613965f2a89bf481c4d62b12ce7d6826fcec0e956d981b3f1b63f",
+      "commit": "9b3e577853d934f7983f4f4e7ce0427f2356676f",
+      "publishedAt": "2026-11-24T03:18:06.903Z"
     },
     {
       "id": "xiaoai-music",
@@ -2546,5 +2577,5 @@
     }
   ],
   "revoked": [],
-  "generatedAt": "2026-11-24T03:16:38.048Z"
+  "generatedAt": "2026-11-24T03:18:06.903Z"
 }
